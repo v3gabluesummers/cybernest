@@ -1,3 +1,6 @@
 
 
 # Atlas - custom CSS along with Garden
+* What to do first?
+** TODO Basic post
+** TODO Then save to database
