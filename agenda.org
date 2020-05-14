@@ -1,6 +1,14 @@
-
+#+TITLE:     Cybernest Scratch 
+#+AUTHOR:    Jamal Burgess
+#+EMAIL:     jburgess84@gmail.com
+#+TODO: TODO(t) STARTED(s) IDEA(i) WAITING(w) | DONE(d) CANCELED(c)
+#+STARTUP: showall
 
 # Atlas - custom CSS along with Garden
 * What to do first?
 ** TODO Basic post
-** TODO Then save to database
+** TODO Figure out Integrant
+** WAITING Add some structure, what pattern is best?
+** TODO Then save to database  
+** IDEA Atlas
+
